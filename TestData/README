@@ -1,0 +1,8 @@
+# test DWSim raquired Data
+inst.txt ---- instructions data
+mem.txt  ---- initial memory data
+ins.conf  ---- instructions configuration file
+ps.conf  ---- DWSim internal pipeline configuration file
+
+Will the above  file into the root directory of source code , Make Code in linux or Compile Code in windows
+How to run the simulator in detail ,you can refer to ../Document/DWSim_tutorial.pdf
